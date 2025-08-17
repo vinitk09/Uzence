@@ -131,7 +131,3 @@ I'd add:
 - More customization options
 - Better keyboard shortcuts
 - Light/dark mode toggle
-
----
-
-This version sounds natural and explains the thinking behind your work without technical jargon. You can add it right before the screenshots section in your README.
